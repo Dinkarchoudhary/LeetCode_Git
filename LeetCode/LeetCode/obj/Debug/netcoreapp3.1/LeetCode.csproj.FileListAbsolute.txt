@@ -1,0 +1,14 @@
+D:\Perosnal\Code\LeetCode\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.exe
+D:\Perosnal\Code\LeetCode\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.deps.json
+D:\Perosnal\Code\LeetCode\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.json
+D:\Perosnal\Code\LeetCode\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.runtimeconfig.dev.json
+D:\Perosnal\Code\LeetCode\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.dll
+D:\Perosnal\Code\LeetCode\LeetCode\bin\Debug\netcoreapp3.1\LeetCode.pdb
+D:\Perosnal\Code\LeetCode\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csproj.AssemblyReference.cache
+D:\Perosnal\Code\LeetCode\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Perosnal\Code\LeetCode\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfoInputs.cache
+D:\Perosnal\Code\LeetCode\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.AssemblyInfo.cs
+D:\Perosnal\Code\LeetCode\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.csproj.CoreCompileInputs.cache
+D:\Perosnal\Code\LeetCode\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.dll
+D:\Perosnal\Code\LeetCode\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.pdb
+D:\Perosnal\Code\LeetCode\LeetCode\obj\Debug\netcoreapp3.1\LeetCode.genruntimeconfig.cache
